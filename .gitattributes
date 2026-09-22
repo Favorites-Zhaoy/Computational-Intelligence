@@ -1,0 +1,4 @@
+# MATLAB Live Script 是 zip 容器，按二进制处理，避免换行符被改写
+*.mlx binary
+*.xls binary
+*.fis text eol=lf

@@ -1,0 +1,8 @@
+# CIFAR-10 数据集与训练产物（体积大，不入库）
+data/
+*.mat
+*.asv
+
+# MATLAB 临时文件
+slprj/
+*.autosave
